@@ -1,0 +1,16 @@
+C:\Users\16109\Documents\GitHub\PrimeNumbers\Primes\Primes\bin\Debug\net5.0\Primes.exe
+C:\Users\16109\Documents\GitHub\PrimeNumbers\Primes\Primes\bin\Debug\net5.0\Primes.deps.json
+C:\Users\16109\Documents\GitHub\PrimeNumbers\Primes\Primes\bin\Debug\net5.0\Primes.runtimeconfig.json
+C:\Users\16109\Documents\GitHub\PrimeNumbers\Primes\Primes\bin\Debug\net5.0\Primes.runtimeconfig.dev.json
+C:\Users\16109\Documents\GitHub\PrimeNumbers\Primes\Primes\bin\Debug\net5.0\Primes.dll
+C:\Users\16109\Documents\GitHub\PrimeNumbers\Primes\Primes\bin\Debug\net5.0\ref\Primes.dll
+C:\Users\16109\Documents\GitHub\PrimeNumbers\Primes\Primes\bin\Debug\net5.0\Primes.pdb
+C:\Users\16109\Documents\GitHub\PrimeNumbers\Primes\Primes\obj\Debug\net5.0\Primes.csproj.AssemblyReference.cache
+C:\Users\16109\Documents\GitHub\PrimeNumbers\Primes\Primes\obj\Debug\net5.0\Primes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16109\Documents\GitHub\PrimeNumbers\Primes\Primes\obj\Debug\net5.0\Primes.AssemblyInfoInputs.cache
+C:\Users\16109\Documents\GitHub\PrimeNumbers\Primes\Primes\obj\Debug\net5.0\Primes.AssemblyInfo.cs
+C:\Users\16109\Documents\GitHub\PrimeNumbers\Primes\Primes\obj\Debug\net5.0\Primes.csproj.CoreCompileInputs.cache
+C:\Users\16109\Documents\GitHub\PrimeNumbers\Primes\Primes\obj\Debug\net5.0\Primes.dll
+C:\Users\16109\Documents\GitHub\PrimeNumbers\Primes\Primes\obj\Debug\net5.0\ref\Primes.dll
+C:\Users\16109\Documents\GitHub\PrimeNumbers\Primes\Primes\obj\Debug\net5.0\Primes.pdb
+C:\Users\16109\Documents\GitHub\PrimeNumbers\Primes\Primes\obj\Debug\net5.0\Primes.genruntimeconfig.cache
